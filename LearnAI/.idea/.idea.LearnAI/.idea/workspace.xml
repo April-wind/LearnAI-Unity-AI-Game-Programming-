@@ -12,11 +12,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://D:/unityResource/Unity AI Game Programming Second Edition_Code/Unity AI Game Programming Second Edition_Code/Chapter 5/Assets/Scripts/Flocking Unity/UnityFlock.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/PriorityQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Colony/CrowAI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/AStar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/TestCode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/Node.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/unityResource/Unity AI Game Programming Second Edition_Code/Unity AI Game Programming Second Edition_Code/Chapter 4/NavigationMesh/Assets/Scripts/A-star/GridManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NavMesh/Target.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Colony/Crow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/GridManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -27,6 +31,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Astar/TestCode.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Astar/AStar.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Astar/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NavMesh/Target.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Colony/UnityFlockController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Colony/UnityFlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Colony/Crow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Colony/CrowAI.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +96,16 @@
       <workItem from="1570546474402" duration="313000" />
       <workItem from="1570632503842" duration="47000" />
       <workItem from="1570632584155" duration="3420000" />
-      <workItem from="1570710315444" duration="6246000" />
+      <workItem from="1570710315444" duration="6845000" />
+      <workItem from="1570965965939" duration="1579000" />
+      <workItem from="1571119768940" duration="537000" />
+      <workItem from="1571120340615" duration="4154000" />
+      <workItem from="1571124715210" duration="236000" />
+      <workItem from="1571128988549" duration="2204000" />
+      <workItem from="1571136377792" duration="8170000" />
+      <workItem from="1571208365025" duration="3788000" />
+      <workItem from="1571224807320" duration="2673000" />
+      <workItem from="1571232252580" duration="225000" />
     </task>
     <servers />
   </component>
@@ -116,6 +134,7 @@
     <state x="636" y="255" key="Vcs.Push.Dialog" />
     <state x="636" y="255" key="Vcs.Push.Dialog/1920.1080" />
     <state x="687" y="243" width="672" height="680" key="search.everywhere.popup" />
+    <state x="687" y="243" width="672" height="680" key="search.everywhere.popup/1920.1080" />
     <state x="687" y="243" width="672" height="680" key="search.everywhere.popup/2560.1440" />
   </component>
   <component name="XDebuggerManager">
