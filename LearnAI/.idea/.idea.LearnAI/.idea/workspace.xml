@@ -12,13 +12,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://D:/unityResource/Unity AI Game Programming Second Edition_Code/Unity AI Game Programming Second Edition_Code/Chapter 5/Assets/Scripts/Flocking Unity/UnityFlock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/TaskB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/行为树/Sequence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/unityResource/Unity AI Game Programming Second Edition_Code/Unity AI Game Programming Second Edition_Code/Chapter 6/Assets/Scripts/Samples/MathTree.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/PriorityQueue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Colony/CrowAI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/AStar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/TestCode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/TaskA.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/unityResource/Unity AI Game Programming Second Edition_Code/Unity AI Game Programming Second Edition_Code/Chapter 4/NavigationMesh/Assets/Scripts/A-star/GridManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HugePeople/CrowdAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/unityResource/Unity AI Game Programming Second Edition_Code/Unity AI Game Programming Second Edition_Code/Chapter 5/Assets/Scripts/Flocking Unity/UnityFlock.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/行为树/Nodes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/行为树/ActionNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/MoveTowards.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/行为树/Selector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/AStar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/行为树/Inverter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/WithInSight.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NavMesh/Target.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Colony/Crow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Astar/GridManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -36,6 +47,17 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Colony/UnityFlock.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Colony/Crow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Colony/CrowAI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HugePeople/CrowdAgent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/行为树/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/行为树/Nodes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/行为树/Selector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/行为树/ActionNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/行为树/Sequence.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/行为树/Inverter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/MoveTowards.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/WithInSight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/TaskB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviorDesigner/TaskA.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +127,16 @@
       <workItem from="1571136377792" duration="8170000" />
       <workItem from="1571208365025" duration="3788000" />
       <workItem from="1571224807320" duration="2673000" />
-      <workItem from="1571232252580" duration="225000" />
+      <workItem from="1571232252580" duration="2224000" />
+      <workItem from="1571289923123" duration="2470000" />
+      <workItem from="1571298816574" duration="5305000" />
+      <workItem from="1571324503125" duration="870000" />
+      <workItem from="1571638124722" duration="1325000" />
+      <workItem from="1571649791273" duration="434000" />
+      <workItem from="1571655189263" duration="1596000" />
+      <workItem from="1571667424375" duration="2068000" />
+      <workItem from="1571729657194" duration="25000" />
+      <workItem from="1571740175454" duration="1386000" />
     </task>
     <servers />
   </component>
